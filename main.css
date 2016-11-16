@@ -19,3 +19,13 @@
 @media only screen and (min-width: 40.063em) {
   .social-icons {
     top: -35px; } }
+
+
+h4{
+    font-family: 'News Cycle', sans-serif;
+    font-size: 2em;
+    }
+
+p{
+    font-family: 'Gentium Basic', serif;
+}

@@ -300,11 +300,11 @@ section.features .feature-item i {
   width: 100%;
   min-height: auto;
   overflow-y: hidden;
-  background: url("../img/bg-pattern.png"), #b1caff;
+  background: url("../img/bg-pattern.png"), #f0f0f1;
   /* fallback for old browsers */
-  background: url("../img/bg-pattern.png"), -webkit-linear-gradient(to left, #b1caff, #a2b2dc);
+  background: url("../img/bg-pattern.png"), -webkit-linear-gradient(to left, #f0f0f1, #ffffff);
   /* Chrome 10-25, Safari 5.1-6 */
-  background: url("../img/bg-pattern.png"), linear-gradient(to left, #b1caff, #a2b2dc);
+  background: url("../img/bg-pattern.png"), linear-gradient(to left, #f0f0f1, #ffffff);
   /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   color: white;
 }
@@ -472,8 +472,8 @@ body {
 	border: 1px solid GREY;
 	}
   .portfolio{
-background: #d0edff; /* fallback for old browsers */
-background: -webkit-linear-gradient(to left, #d0edff , #dfe7eb); /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to left, #d0edff , #dfe7eb); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: #f5f5f5; /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #f5f5f5 , #f5f5f5); /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #f5f5f5 , #f5f5f5;) /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
         
   }
